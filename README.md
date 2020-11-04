@@ -1,4 +1,2 @@
 # hello-world
-Just another repository
-
-this is our assignment
+Moran Levi, Ron Rosenfeld
